@@ -18,4 +18,12 @@ public class DemoRestController {
     }
 
 
+    public static void main(String[] args) {
+
+        DemoRestController demo = new DemoRestController();
+
+
+    }
+
+
 }
